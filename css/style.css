@@ -21,7 +21,7 @@ time, mark, audio, video {
     outline:0;
     font-size:100%;
     vertical-align:baseline;
-    background:blue;
+    background:Terra Cota Background.jpg;
 }
 body {
     line-height:1;
@@ -125,17 +125,17 @@ nav li{
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
-	color: white;
+	color: yellow;
 	font-size: 35px;
 	padding: 5px 20px;
 }
 	nav li.last {margin-right: 0;}
 nav a {
-	color:white;
+	color:yellow;
 	text-decoration: none;
 }
 nav a:hover{
-	color:white;
+	color:yellow;
 }
 /*** END Header ***/
 

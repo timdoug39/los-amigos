@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+	<title>Los 
+            Amigos <img></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+	<div id="wrapper">
+
+		<header>
+			<h1>Stormie's Flowers </h1>
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Menu</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Location</a></li>
+			        <li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+			
+			
+			
+		</header>
+
+
+		<section>
+
+
+			<article>
+				<h1>tuseday endless enchiladas for only $8.99 </h1>
+		      
+		        <h1>Specials</h1>
+		        
+		        <h1>Events</h1>
+		       
+		       
+			</article>
+
+
+
+
+
+			<aside>
+			<div> Main Promotions</div>
+			
+			</aside>
+			<div class="clear"></div>
+		</section>
+		<footer>
+			&copy; design by 404 Not Found, coded by Timothy and Zac 
+		</footer>
+<!-- end Travis' section -->
+
+	</div><!-- end wrapper -->
+</body>
