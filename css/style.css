@@ -47,7 +47,7 @@ a {
     padding:0;
     font-size:100%;
     vertical-align:baseline;
-    background:blue;
+    background:none;
 }
 
 ins {
@@ -110,29 +110,29 @@ aarticle {text-align: center;}
 /*** Header ***/
 header h1 {
 	border-style: solid;
-	border-color:red;
+	border-color:black;
 	border-width:2px;
 	font-size: 70px;
 	padding: 20px 0;
 	text-align: center;
-	color: white;
+	color: black;
 	margin-bottom: 20px;
 	font-weight: normal; 
 }
 nav li{
 	border-style: solid;
-	border-color:red;
+	border-color:black;
 	border-width:2px;
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
-	color: yellow;
+	color: black;
 	font-size: 35px;
 	padding: 5px 20px;
 }
 	nav li.last {margin-right: 0;}
 nav a {
-	color:yellow;
+	color:black;
 	text-decoration: none;
 }
 nav a:hover{
@@ -148,7 +148,7 @@ article h2, article h3 {padding: 20px 0;}
 article p {padding: 50px 0;}
 
 article h2, article h3, article p {border: solid 2px red; margin-bottom: 10px;}
-article h2{font-size: 30px; color: white;}
+article h2{font-size: 30px; color: black;}
 /*** END Main Content ***/
 
 
@@ -159,7 +159,7 @@ side {
 	font-size: 25px;
 	padding-top: 50px;
 }
-aside div {border: solid 2px red; height: 180px; padding-top: 100px;}
+aside div {border: solid 2px black; height: 180px; padding-top: 100px;}
 
 footer { padding-top: 25px; text-align: left; }
 /*** END Sidebar and Footer ***/
